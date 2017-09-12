@@ -1,0 +1,3 @@
+C:\Users\DiasAK\Documents\Visual Studio 2005\Projects\Toko Apajadah\Toko Apajadah\obj\Debug\Toko Apajadah.exe
+C:\Users\DiasAK\Documents\Visual Studio 2005\Projects\Toko Apajadah\Toko Apajadah\obj\Debug\Toko Apajadah.xml
+C:\Users\DiasAK\Documents\Visual Studio 2005\Projects\Toko Apajadah\Toko Apajadah\obj\Debug\Toko Apajadah.pdb
